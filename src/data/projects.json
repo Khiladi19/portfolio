@@ -8,7 +8,7 @@
     {
       "id": 2,
       "title": "FullStack",
-      "description": "Built using React, TailwindCSS, Docker, Kubernates, Jenkins",
+      "description": "Built using React, Node.js, Express.js, MongoDB, TailwindCSS, Docker, Kubernates, Jenkins",
       "link": "https://github.com/Khiladi19/FullStack"
     },
     {
