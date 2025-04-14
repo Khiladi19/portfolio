@@ -31,7 +31,7 @@ portfolio/ │ ├── public/ # Static assets ├── src/ # Main source co
 - Dark/light mode toggle
 - Smooth animations with Framer Motion
 - Resume download functionality
-- Contact form with email integration (if available)
+- Contact form with email integration
 
 ---
 
