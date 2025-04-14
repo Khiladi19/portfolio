@@ -22,12 +22,6 @@
       "title": "E-App",
       "description": "Full CRUD app with authentication ",
       "link": "https://github.com/Khiladi19/E-App"
-    },
-    {
-      "id": 5,
-      "title": "Chat Application",
-      "description": "Real-time chat using Socket.IO and Node.js",
-      "link": "#"
     }
   ]
   

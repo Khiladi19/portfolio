@@ -13,7 +13,7 @@ function Resume() {
             Download Resume
           </a>
           <button
-            onClick={() => window.open("/abhishek_resume.pdf", "_blank")}
+            onClick={() => window.open("https://khiladi19.github.io/resume/abhishek_resume.pdf#toolbar=0&navpanes=0&scrollbar=0", "_blank")}
             className="bg-gray-600 text-white px-5 py-2.5 rounded-md hover:bg-gray-700 transition-colors text-sm sm:text-base"
           >
             View Fullscreen
