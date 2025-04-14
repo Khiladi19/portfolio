@@ -87,3 +87,10 @@ npm run dev
 **Abhishek Kumar**
 
 🔗 [Connect with me on LinkedIn](https://www.linkedin.com/in/abhishek-kumar193/)
+
+
+📝 License
+This project is open-source and free to use.
+
+🙌 Thank You
+Thanks for checking out this project! 😊
