@@ -3,7 +3,7 @@ function Resume() {
     <div className="mt-10 p-4 sm:p-6 md:p-10 bg-white dark:bg-gray-900 text-black dark:text-white min-h-screen">
       {/* Header and Buttons */}
       <div className="flex flex-col sm:flex-col justify-between items-start sm:items-center mb-6 gap-4">
-        <h2 className="mt-4 text-2xl sm:text-3xl font-bold">My Resume</h2>
+        <h2 className="mt-5 text-2xl sm:text-3xl font-bold">My Resume</h2>
         <div className="flex flex-col sm:flex-row gap-2">
           <a
             href="/abhishek_resume.pdf"
