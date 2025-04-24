@@ -3,7 +3,7 @@ import { FaGithub, FaLinkedin } from "react-icons/fa";
 
 const Footer = () => {
   return (
-    <footer className="text-center text-sm sm:text-base text-gray-500 dark:text-gray-400 py-6 border-t border-gray-200 dark:border-gray-700 mt-12 px-4">
+    <footer className=" bg-white dark:bg-gray-900 text-black dark:text-white text-center text-sm sm:text-base text-gray-500 dark:text-gray-400 py-6 border-t border-gray-200 dark:border-gray-700 mt-12 px-4">
       <div className="flex justify-center gap-6 mb-3">
         <a
           href="https://github.com/Khiladi19?tab=repositories"

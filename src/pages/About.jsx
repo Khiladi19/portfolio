@@ -2,7 +2,7 @@ import React from "react";
 
 function About() {
   return (
-    <div className=" mt-10 p-4 sm:p-6 md:p-10">
+    <div className=" bg-white dark:bg-gray-900 text-black dark:text-white  mt-10 p-4 sm:p-6 md:p-10">
       <h2 className="text-2xl sm:text-3xl font-bold mb-6 text-center mt-5">
         About Me
       </h2>
@@ -10,7 +10,7 @@ function About() {
       {/* Profile Image */}
       <div className="flex justify-center mb-6">
         <img
-          src="/images/profile.jpg" // ✅ Replace with your image path (e.g. public/profile.jpg)
+          src="/images/profile.jpg" 
           alt="Abhishek Kumar"
           className="w-32 h-32 sm:w-40 sm:h-40 rounded-full object-cover shadow-lg border-4 border-white dark:border-gray-800"
         />
