@@ -7,24 +7,30 @@
     },
     {
       "id": 2,
+      "title": "Task-Manager",
+      "description": "user can create project, task, edit, delete, Jwt for authentication",
+      "link": "https://task-tracker-lsul.onrender.com/"
+    },
+    {
+      "id": 3,
       "title": "FullStack",
       "description": "Built using React, Node.js, Express.js, MongoDB, TailwindCSS, Docker, Kubernates, Jenkins",
       "link": "https://github.com/Khiladi19/FullStack"
     },
     {
-      "id": 3,
+      "id": 4,
       "title": "Portfolio Website",
       "description": "Built using React, TailwindCSS, GitHub, Vercel,",
       "link": "https://github.com/Khiladi19/portfolio"
     },
     {
-      "id": 4,
+      "id": 5,
       "title": "abhi_ecom web app",
       "description": "User can register,login,add-product to cart, razorpay payment",
       "link": "https://github.com/Khiladi19/abhi_ecom_frontend"
     },
     {
-      "id": 5,
+      "id": 6,
       "title": "E-App",
       "description": "Full CRUD app with authentication ",
       "link": "https://github.com/Khiladi19/E-App"
