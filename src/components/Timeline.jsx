@@ -4,6 +4,13 @@ import { motion } from "framer-motion";
 const timelineData = [
   {
     title: "Full Stack Developer Intern",
+    location: "UntraddCareer",
+    date: "May 2025 - July 2025",
+    description: " Developed an ed-tech platform where students can browse, purchase, and enroll in multiple tech programs",
+    type: "experience",
+  },
+  {
+    title: "Full Stack Developer",
     location: "PwSkills",
     date: "Feb 2024 - Nov 2024",
     description: "Worked on building scalable web apps using MERN stack.",
